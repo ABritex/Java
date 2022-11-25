@@ -1,0 +1,12 @@
+Relational Operation
+Equals                :  ==  |  x == y |
+Not Equal             :  !=  |  x != y |
+Less Than             :  <   |  x < y  |
+Less Than or Equal    :  <=  |  x <= y |
+Greater Than          :  >   |  x > y  |
+Greater Than or Equal :  >=  |  x >= y |
+
+Logical Operators
+AND : &&     Both Condition needs to be true
+OR  : ||     Either Condition needs to be true
+Not : !      Inverts the Condition

@@ -1,0 +1,6 @@
+asd,asd,asd,asd,a,sda,sd,asd,asd,asd
+nics,123,Nicholas,Abeleda,C,MA22-IT-02653,BSIT,1,C,nicholasabeleda.bsit@gmail.com
+edriel,321,Edriel,Begornia,M,MA22-IT-02643,BSIT,1,C,edrielbegornia.bsit@gmail.com
+asd,asd,asd,asd,asd,sad,asd,asd,asd,asd
+asd,asd,asd,asd,sad,sd,asd,asd,assd,asd
+asd,asd,asd,asd,asd,asd,asd,asd,asd,asd
